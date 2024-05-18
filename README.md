@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Data structures using C, and basics of Kali Linux**
 
+- 🥹 Im new to GitHub and am working on it.
+
 - 📫 How to reach me **faizanahmedsyed1@gmail.com**
 
 - ⚡ Fun fact **I love hoarding knowledge!🤯**
