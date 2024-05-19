@@ -1,4 +1,4 @@
-![logo](https://github.com/TezorInnovate/TezorInnovate/commit/3ca182c0dd8f49d8eeb51168a7c82ebfbecbeee2)
+![logo](https://github.com/TezorInnovate/TezorInnovate/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Tezor</h1>
 <h3 align="center">A passionate CSE Student in the making!</h3>
 
