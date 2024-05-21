@@ -48,5 +48,4 @@
 
 ###
 
-<img align="right" alt="coding" width="350" src="https://images.app.goo.gl/W72yoyhKqaynqW6a7">
-
+<img align="right" alt="image" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZtNX80Lv6Skpslxuh900C8gENsXojKi73Q&usqp=CAU">
