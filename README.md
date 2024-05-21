@@ -48,4 +48,4 @@
 
 ###
 
-<img align="right" alt="image" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZtNX80Lv6Skpslxuh900C8gENsXojKi73Q&usqp=CAU">
+<img align="center" alt="image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZtNX80Lv6Skpslxuh900C8gENsXojKi73Q&usqp=CAU">
