@@ -45,7 +45,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tezorinnovate&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img align="center" alt="image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZtNX80Lv6Skpslxuh900C8gENsXojKi73Q&usqp=CAU">
