@@ -12,7 +12,7 @@
 <img align="right" alt="coding" width="350" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 
- - 🌱 I’m currently learning **Data structures using C, and basics of Kali Linux**
+ - 🌱 I’m currently learning **Data structures using C, and Full-Stack Web Development**
 
  - 🥹 Im new to GitHub and am working on it.
   
