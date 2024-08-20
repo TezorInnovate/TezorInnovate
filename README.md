@@ -12,13 +12,13 @@
 <img align="right" alt="coding" width="350" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 
 
- - 🌱 I’m currently learning **Data structures using C, and Full-Stack Web Development**
+ - 🌱 I’m currently learning **Data structures using C, OOPS in C++, Digital Electronics, Data Structures in Python, and Full-Stack Web Development**
 
  - 🥹 Im new to GitHub and am working on it.
   
  - 📫 How to reach me: **faizanahmedsyed1@gmail.com**
 
- - ⚡ Fun fact **I love hoarding knowledge!🤯**
+ - ⚡ Fun fact **I love hoarding knowledge! You tell me and i'll do it best. 👍**
 
 <p align="left">
 </p>
