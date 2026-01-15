@@ -1,50 +1,130 @@
 ![logo](https://github.com/TezorInnovate/TezorInnovate/blob/main/GitHub%20banner.jpg)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tezorinnovate&label=Profile%20views&color=0e75b6&style=flat" alt="tezorinnovate" /> </p>
 
-<h1 align="center">
-  Hi There! 👋 I'm Tezor! ⚡
-</h1>
-
-<h3 align="center">A passionate CSE Student in the making!</h3>
-
-<br/>
-
-<img align="right" alt="coding" width="350" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
-
-
- - 🌱 I’m currently learning **Data structures using C, OOPS in C++, Digital Electronics, Data Structures in Python, and Full-Stack Web Development**
-
- - 🥹 Im new to GitHub and am working on it.
-  
- - 📫 How to reach me: **faizanahmedsyed1@gmail.com**
-
- - ⚡ Fun fact **I love hoarding knowledge! You tell me and i'll do it best. 👍**
-
-<p align="left">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tezorinnovate&label=Profile%20views&color=0e75b6&style=flat" alt="tezorinnovate" />
 </p>
 
-<br/>
+<h1 align="center">
+  Hi there! 👋 I'm Faizan Ahmed (Tezor) ⚡
+</h1>
 
-  <h3 align="left">⚒️ Languages - Tools 🛠️</h3>
-  <p align="left">  <p> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><br><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  </p>
-<br/>
+<h3 align="center">
+B.Tech Computer Science Engineering Student | AI • Robotics • Cybersecurity • Systems
+</h3>
+
+---
+
+<img align="right" alt="coding" width="350"
+src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+
+### 👨‍💻 About Me
+I am a **hands-on Computer Science Engineering student** with strong interests in **Artificial Intelligence, Autonomous Systems, Robotics, and Cybersecurity**.  
+I focus on **building real-world, end-to-end systems** — from model design and data pipelines to hardware integration and deployment.
+
+I enjoy working at the intersection of **software + hardware + intelligence**, and I actively develop projects that reflect industry-relevant problem solving rather than purely academic demos.
+
+---
+
+### 🔍 Areas of Interest
+- Artificial Intelligence & Machine Learning
+- Autonomous & Embedded Systems
+- Robotics (Perception, Control, Sensors)
+- Cybersecurity & Network Intrusion Detection
+- On-Device / Edge AI Systems
+- Multimodal Systems (Vision, EEG, Sensors)
+
+---
+
+### 🧠 Technical Skills
+
+#### 🧑‍💻 Programming Languages
+- **Python** (ML, AI systems, automation, backend logic)
+- **C / C++** (Embedded systems, DSA, performance-critical code)
+- **JavaScript** (Web fundamentals)
+- **SQL** (Relational databases)
+
+#### 🤖 AI / Machine Learning
+- Classical ML: Random Forest, Isolation Forest, SVM
+- Deep Learning: CNNs, Vision Transformers (ViT)
+- Hybrid Models: GAN-ANFIS, Neuro-Symbolic Systems
+- Computer Vision: YOLO, OpenCV
+- EEG Signal Processing & Feature Engineering
+- Model Evaluation: Accuracy, F1-Score, Confusion Matrix
+
+#### 🛡️ Cybersecurity
+- Network Intrusion Detection Systems (NIDS)
+- Snort 3, Rule-Based & ML-Based Detection
+- Datasets: NSL-KDD, CIC-IDS2017, UNSW-NB15
+- Self-Healing & Automated Response Systems
+- Anomaly Detection Pipelines
+
+#### 🤖 Robotics & Embedded Systems
+- ESP32, Raspberry Pi 4
+- Sensors: Ultrasonic, IR, Flow, Camera Modules
+- Servo & Motor Control
+- Autonomous Navigation Logic
+- AI-Driven Decision Making for Robots
+
+#### 🧰 Tools & Frameworks
+- Git & GitHub
+- Linux
+- Docker (basic)
+- Arduino IDE
+- Streamlit
+- OpenCV
+- LangChain, Ollama (Local LLMs)
+
+---
+
+### 🚀 Notable Projects
+- **AI-Based Self-Healing Cybersecurity System (NTCC)**  
+  ML-driven intrusion detection with automated mitigation using Snort 3
+
+- **Autonomous AI Firefighting Rover**  
+  ESP32 + vision-based fire detection + sensor-driven navigation & pump control
+
+- **Emotion Recognition System (CNN-ViT + EEG-GANFIS)**  
+  Multimodal deep learning using EEG signals and image inputs
+
+- **On-Device AI Assistant (Raspberry Pi)**  
+  Local LLM, STT/TTS, and hardware control for privacy-preserving AI
+
+- **Streamlit AI Medical Assistant**  
+  Health report analysis, calorie planning, and alert generation
+
+---
+
+### 📚 Currently Learning
+- Advanced Data Structures & Algorithms
+- Control Systems (PID, Model-Based Control)
+- Robotics Kinematics & Dynamics
+- Edge AI Optimisation
+- Secure AI Systems
+
+---
+
+### 🏆 Platforms & Practice
 <img src="https://tryhackme-badges.s3.amazonaws.com/TezHack.png" alt="TryHackMe">
 
-###
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tezorinnovate&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tezorinnovate&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=tezorinnovate&show_icons=true&theme=dracula" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tezorinnovate&layout=compact&theme=dracula" height="130"/>
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tezorinnovate&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tezorinnovate&theme=dark" height="220"/>
 </div>
 
+---
+
+### 📫 Contact
+- **Email:** faizanahmedsyed1@gmail.com  
+- **GitHub:** https://github.com/TezorInnovate
+
+---
+
+⚡ *I believe in learning by building — if it can be imagined, it can be engineered.*
