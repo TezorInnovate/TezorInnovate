@@ -103,22 +103,6 @@ I enjoy working at the intersection of **software + hardware + intelligence**, a
 
 ---
 
-### 🏆 Platforms & Practice
-<img src="https://tryhackme-badges.s3.amazonaws.com/TezHack.png" alt="TryHackMe">
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tezorinnovate&show_icons=true&theme=dracula" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tezorinnovate&layout=compact&theme=dracula" height="130"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tezorinnovate&theme=dark" height="220"/>
-</div>
-
 ---
 
 ### 📫 Contact
